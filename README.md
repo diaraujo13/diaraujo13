@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassirego">
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diaraujo13">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassiorego&layout=compact&theme=radical" />
   </a>
 </p>
@@ -24,7 +24,7 @@
   </a>
 </p>
 <p align="center">
-  💼  &nbsp; IT Analist at <a href="https://criatech.me">Federal University of The São Francisco's Valley<a/> &nbsp;
+  💼  &nbsp; IT Analyst at <a href="https://criatech.me">Federal University of The São Francisco's Valley<a/> &nbsp;
 <p align="center">
   📚 &nbsp; Specialization in <b>Databases</b> &nbsp;
 </p>
