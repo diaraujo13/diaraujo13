@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diaraujo13">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tassiorego&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=diaraujo13&layout=full&theme=radical" />
   </a>
 </p>
 <p align="center"> JavaScript | PHP | SQL | React | React Native </p>
